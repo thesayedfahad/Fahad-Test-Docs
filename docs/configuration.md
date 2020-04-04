@@ -12,18 +12,9 @@ In ths tutorial, we will create a new Account to access Figma. To use all the fu
 set up an account on Figma.
 {: .fs-4 .fw-300 }
 
-# How To Create An Account
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
-
-## Site logo
+## How To Create An Account
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
