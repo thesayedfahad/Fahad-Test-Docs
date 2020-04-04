@@ -20,14 +20,16 @@ set up an account on Figma.
 3. Sign up with Existing Google Account or create a new Account.
 {: .fs-4 .fw-300 }
 ### Sign Up With Google
-1.
-2.
-3.
+1. Click on Sign up with Google.
+2. Sign in with an Existing Google Account.
+3. Enter your name and the type of work you do from the dropdown menu.
+4. Click on Create Account to Set up your Account.
+
 {: .fs-4 .fw-300 }
 ### Sign Up with A New Account
-1.
-2.
-3.
+1. Enter an your Email Address and password for your Acconut.
+2. Enter your name and the type of work you do from the dropdown menu.
+3. Click on Create Account to Set up your Account.
 {: .fs-4 .fw-300 }
 
 
