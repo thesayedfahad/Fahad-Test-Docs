@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Task 1
+title: Create New Account
 nav_order: 2
 ---
 
-# Configuration
+# Create New Account
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
-{: .fs-6 .fw-300 }
+In ths tutorial, we will create a new Account to access Figma. To use all the functionality and save your progess,it is neccessary to 
+set up an account on Figma.
+{: .fs-4 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
