@@ -16,10 +16,10 @@ set up an account on Figma.
 
 ## How To Create An Account
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+In ths tutorial, we will create a new Account to access Figma. To use all the functionality and save your progess, it is neccessary to 
+set up an account on Figma.
+{: .fs-4 .fw-300 }
+
 
 ## Search
 
