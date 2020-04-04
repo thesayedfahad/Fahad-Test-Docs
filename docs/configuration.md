@@ -8,8 +8,8 @@ nav_order: 2
 {: .no_toc }
 
 
-In ths tutorial, we will create a new Account to access Figma. To use all the functionality and save your progess, it is neccessary to 
-set up an account on Figma.
+1. Open https://www.figma.com/ 
+2. Click on
 {: .fs-4 .fw-300 }
 
 
