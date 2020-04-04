@@ -8,11 +8,11 @@ nav_order: 2
 {: .no_toc }
 
 
-In ths tutorial, we will create a new Account to access Figma. To use all the functionality and save your progess,it is neccessary to 
+In ths tutorial, we will create a new Account to access Figma. To use all the functionality and save your progess, it is neccessary to 
 set up an account on Figma.
 {: .fs-4 .fw-300 }
 
-## Table of contents
+# How To Create An Account
 {: .no_toc .text-delta }
 
 1. TOC
