@@ -7,18 +7,18 @@ nav_order: 2
 # Create New Account
 {: .no_toc }
 
-
-1. Open https://www.figma.com/ 
-2. Click on
+In ths tutorial, we will create a new Account to access Figma. To use all the functionality and save your progess, it is neccessary to 
+set up an account on Figma.
 {: .fs-4 .fw-300 }
 
 
 
 ## How To Create An Account
 
-In ths tutorial, we will create a new Account to access Figma. To use all the functionality and save your progess, it is neccessary to 
-set up an account on Figma.
+1. Open https://www.figma.com/ 
+2. Click on
 {: .fs-4 .fw-300 }
+
 
 
 ## Search
