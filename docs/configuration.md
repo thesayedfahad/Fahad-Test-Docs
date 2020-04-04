@@ -16,8 +16,21 @@ set up an account on Figma.
 ## How To Create An Account
 
 1. Open https://www.figma.com/ 
-2. Click on
+2. Click on Sign Up.
+3. Sign up with Existing Google Account or create a new Account.
 {: .fs-4 .fw-300 }
+### Sign Up With Google
+1.
+2.
+3.
+{: .fs-4 .fw-300 }
+### Sign Up with A New Account
+1.
+2.
+3.
+{: .fs-4 .fw-300 }
+
+
 
 
 
