@@ -49,7 +49,21 @@ a. Enter an your **Email Address** and **Password** for your Acconut.
 
 ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/Create-account.png?raw=true "Logo Title Text 3")
 {: .fs-4 .fw-300 }
+6.Type a team name an click the **Next** button.
+
+![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/welcome-to-figma.png?raw=true "Logo Title Text 4")
+
+7.Choose the **Starter** or **Professional** plan as per your need.
+
+![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/plan.png?raw=true "Logo Title Text 5")
+
+8. Invite Collaborators via **E-mail** and click the **Next** button or you can **Skip this step**.
+
+![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/next%20(2).png?raw=true "Logo Title Text 5")
 
 
+You have succesfully set up an Account on Figma. You would be automatically redirected to an Untitiled Project.
+
+![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/2020-04-05%20(17).png?raw=true "Logo Title Text 6")
 
 
