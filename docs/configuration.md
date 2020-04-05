@@ -15,7 +15,7 @@ set up an account on Figma.
 
 ## How To Create An Account
 
-1. Open https://www.figma.com/  
+1. Open https://www.figma.com   
 2. Click on Sign Up.  
 ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/Image-1.png?raw=true "Logo Title Text 1")
 3. Sign up with Existing Google Account or create a new Account.  
