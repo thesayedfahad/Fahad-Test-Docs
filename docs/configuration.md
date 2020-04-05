@@ -36,8 +36,10 @@ a. Enter an your Email Address and password for your Acconut.
 
 4. Enter your name and the type of work you do from the dropdown menu.
 ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/IMAGE-4.png?raw=true "Logo Title Text 3")
-
 5. Click on Create Account to Set up your Account.
+![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/Create-account.png?raw=true "Logo Title Text 3")
+
+
 
 
 
