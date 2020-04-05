@@ -21,35 +21,31 @@ Before creating a frame, you need a Figma account. If you don't have a Figma Acc
 
 1. Open **[https://www.figma.com/](http://google.com)**
 
-2. Click on **Sign Up**.
+2.  **Log in** to your account.
 
-![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/Image-1.png?raw=true "Logo Title Text 1")
+3. Click on your **Team Name** .
 
-3. Sign up with **Existing Google Account** or create a **New Account**.
+![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/wedesign-2).png?raw=true "Logo Title Text 1")
 
-![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/IMAGE-2%20(1).png?raw=true "Logo Title Text 2")
+4. Click on **New Project**.
+
+![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/wedes.png?raw=true "Logo Title Text 1")
+
+
+5. Type in your Project name and click **Create A Project**.
+
+![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/wedesin3.png?raw=true "Logo Title Text 1")
+
+
+
+6. Click on **New File**, to set up a File to work on.
+
+![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/4.png?raw=true "Logo Title Text 1")
+
+After creating a **New File** you would redirected to your File page, which would look like this.
+
+![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/55.png?raw=true "Logo Title Text 1")
+
 
 {: .fs-4 .fw-300 }  
-### Sign Up With Google  
-a. Click on **Sign up with Google.** 
 
-b. Sign in with an Existing Google Account.
-
-![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/IMAGE-3.png?raw=true "Logo Title Text 3")
-
-
-
-{: .fs-4 .fw-300 }
-### Sign Up with A New Account
-a. Enter an your **Email Address** and **Password** for your Acconut.
-
-{: .fs-4 .fw-300 }
-
-4. Enter your **Name** and the **type of work you do** from the dropdown menu.
-
-![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/IMAGE-4.png?raw=true "Logo Title Text 3")
-
-5. Click on **Create Account** to Set up your Account.
-
-![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/Create-account.png?raw=true "Logo Title Text 3")
-{: .fs-4 .fw-300 }
