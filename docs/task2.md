@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Create Frames In Figma
+title: Create New Project
 nav_order: 3
 ---
 
-# Create Frames In Figma
+# Create New Project
 {: .no_toc }
 
-In ths tutorial, we will create a basic Frame(the page on which you design your UI) in Figma. Frames are like windows,where the user look through an see the object behind it. 
+In ths tutorial, we will create a New Project in Figma. Project is where you will save all your progress. 
 {: .fs-4 .fw-300 }
 
 ## Pre-requisite
 {: .no_toc }
 
-Before creating a frame, you need a Figma account. If you don't have a Figma Account **[Make An Account Here](https://thesayedfahad.github.io/Fahad-Test-Docs/docs/configuration/)**. If you have just set up a new Account, you would automatically be in your untitled project, you can skip **How To Create A Project** else you would have to make a new one.
+Before creating a new project, you need a Figma account. If you don't have a Figma Account **[Make An Account Here](https://thesayedfahad.github.io/Fahad-Test-Docs/docs/configuration/)**. If you have just set up a new Account, you would automatically be in your untitled project else you would have to **Make A New Project**.
 {: .fs-4 .fw-300 }
 
 
