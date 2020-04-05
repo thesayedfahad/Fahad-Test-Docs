@@ -65,5 +65,5 @@ a. Enter an your **Email Address** and **Password** for your Acconut.
 You have succesfully set up an Account on Figma. You would be automatically redirected to an Untitiled Project.
 
 ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/2020-04-05%20(17).png?raw=true "Logo Title Text 6")
-
+{: .fs-4 .fw-300 }
 
