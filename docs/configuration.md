@@ -15,19 +15,19 @@ set up an account on Figma.
 
 ## How To Create An Account
 
-1. Open https://www.figma.com
+1. Open **[https://www.figma.com/](http://google.com)**
 
-2. Click on Sign Up.
+2. Click on **Sign Up**.
 
 ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/Image-1.png?raw=true "Logo Title Text 1")
 
-3. Sign up with Existing Google Account or create a new Account.
+3. Sign up with **Existing Google Account** or create a **New Account**.
 
 ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/IMAGE-2%20(1).png?raw=true "Logo Title Text 2")
 
 {: .fs-4 .fw-300 }  
 ### Sign Up With Google  
-a. Click on Sign up with Google.  
+a. Click on **Sign up with Google.** 
 
 b. Sign in with an Existing Google Account.
 
@@ -37,15 +37,15 @@ b. Sign in with an Existing Google Account.
 
 {: .fs-4 .fw-300 }
 ### Sign Up with A New Account
-a. Enter an your Email Address and password for your Acconut.
+a. Enter an your **Email Address** and **Password** for your Acconut.
 
 {: .fs-4 .fw-300 }
 
-4. Enter your name and the type of work you do from the dropdown menu.
+4. Enter your **Name** and the **type of work you do** from the dropdown menu.
 
 ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/IMAGE-4.png?raw=true "Logo Title Text 3")
 
-5. Click on Create Account to Set up your Account.
+5. Click on **Create Account** to Set up your Account.
 
 ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/Create-account.png?raw=true "Logo Title Text 3")
 {: .fs-4 .fw-300 }
