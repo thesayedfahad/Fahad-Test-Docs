@@ -1,19 +1,18 @@
 ---
 layout: default
-title: Task2
+title: Create Frames In Figma
 nav_order: 3
 ---
 
-# Create New Account
+# Create Frames In Figma
 {: .no_toc }
 
-In ths tutorial, we will create a new Account to access Figma. To use all the functionality and save your progess, it is neccessary to 
-set up an account on Figma.
+In ths tutorial, we will create a basic Frame(the page on which you design your UI) in Figma. Frames are like windows,where the user look through an see the object behind it. 
 {: .fs-4 .fw-300 }
 
 
 
-## How To Create An Account
+## How To Create A Frame
 
 1. Open **[https://www.figma.com/](http://google.com)**
 
