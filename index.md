@@ -12,4 +12,4 @@ Figma is a rapid design prototyping platform with live collaborative editing and
 
 # [](#header-2) Getting started
 
-[Go to Figma now!](https://www.figma.com/) {: .btn }
+[Go to Figma now!](https://www.figma.com/){: .btn }
