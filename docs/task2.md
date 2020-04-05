@@ -32,7 +32,7 @@ Before creating a new project, you need a Figma account. If you don't have a Fig
 
 4. Click on **New Project**.
 
-![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/wedesign-2).png?raw=true "Logo Title Text 2")
+![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/wedesign-2.png?raw=true "Logo Title Text 2")
 
 
 5. Type in your Project name and click **Create A Project**.
