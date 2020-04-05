@@ -10,9 +10,14 @@ nav_order: 3
 In ths tutorial, we will create a basic Frame(the page on which you design your UI) in Figma. Frames are like windows,where the user look through an see the object behind it. 
 {: .fs-4 .fw-300 }
 
+## Pre-requisite
+{: .no_toc }
+
+Before creating a frame, you need a Figma account. If you don't have a Figma Account **[Make An Account Here](https://thesayedfahad.github.io/Fahad-Test-Docs/docs/configuration/)**. If you have just set up a new Account, you would automatically be in your untitled project, you can skip **How To Create A Project** else you would have to make a new one.
+{: .fs-4 .fw-300 }
 
 
-## How To Create A Frame
+## How To Create A Project
 
 1. Open **[https://www.figma.com/](http://google.com)**
 
