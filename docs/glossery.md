@@ -4,3 +4,9 @@ title: Glossery
 nav_order: 99
 ---
 
+Figma
+: The design prototyping platform for which this documentation is written.
+
+Frame
+: A Frame is a representation of the screen you wish to design your application for. 
+  UI elements can only be placed inside frames, and often for every "screen" in your user interface you'll use a different Frame.
