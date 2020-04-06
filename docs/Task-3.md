@@ -23,21 +23,22 @@ In ths tutorial, we will create a Frame in Figma. Frame is like a slide. The UI 
 
 1. Open **[https://www.figma.com/](http://google.com)**
 
-2.  **Log in** to your account.
-  ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/login.png?raw=true "Logo Title Text 0")
+2. Click on the **File** you want to wrok on.
+  ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/A.png?raw=true "Logo Title Text 1")
 
+3. Click on **Frame** Icon on the Top-Left side.
+  ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/b.png?raw=true "Logo Title Text 2")
 
-3. Click on your **Team Name** .
-  ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/wedes.png?raw=true "Logo Title Text 1")
-
-4. Click on **New Project**.
-  ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/wedesign-2.png?raw=true "Logo Title Text 2")
-
-5. Type in your Project name and click **Create A Project**.
+4. The icon will cahnge into a plus sign.
   ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/wedesin3.png?raw=true "Logo Title Text 3")
 
-6. Click on **New File**, to set up a File to work on.
-  ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/4.png?raw=true "Logo Title Text 4")
+5. Keep clicking and drag the icon to form a rectangle frame.
+  ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/c.png?raw=true "Logo Title Text 4")
+  
+  you can also select a Frame size from the list on the left.
+    ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/e.png?raw=true "Logo Title Text 5")
+
+
 
 After creating a **New File** you would redirected to your File page, which would look like this.
   ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/55.png?raw=true "Logo Title Text 5")
