@@ -29,7 +29,7 @@ In ths tutorial, we will create a Frame in Figma. Frame is like a slide. The UI 
 3. Click on **Frame** Icon on the Top-Left side.
   ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/b.png?raw=true "Logo Title Text 2")
 
-4. The icon will cahnge into a plus sign.
+4. The icon will change into a plus sign.
     ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/os-x-cursors.png?raw=true "Logo Title Texts  3")
 
 5. Keep clicking and drag the icon to form a rectangle frame.
