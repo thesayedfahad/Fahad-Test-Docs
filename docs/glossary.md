@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glossery
+title: Glossary
 nav_order: 99
 ---
 
