@@ -13,7 +13,7 @@ In this tutorial, we will create a New Project in Figma. Project is where you wi
 ## Pre-requisite
 {: .no_toc }
 
-Before creating a new project, you need a Figma account. If you don't have a Figma Account **[Make An Account Here]({% link new-account.md }%)**. If you have just set up a new Account, you would automatically be in your untitled project else you would have to **Make A New Project**.
+Before creating a new project, you need a Figma account. If you don't have a Figma Account **[Make An Account Here]({% link new-account.md %})**. If you have just set up a new Account, you would automatically be in your untitled project else you would have to **Make A New Project**.
 {: .fs-4 .fw-300 }
 
 
