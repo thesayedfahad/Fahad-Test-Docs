@@ -6,5 +6,6 @@ nav_order: 99
 
 | Issue | Possible Reason | Solution |
 | :---         |     :---:      |          ---: |
-| Cannot open to Figma.com   | Scheduled maintenance     | Try opening after 5-10 minutes     |
+| Cannot open to Figma.com   | Scheduled maintenance| Try opening after 5-10 minutes     |
+                               Network issues
 | git diff     | git diff       | git diff      |
