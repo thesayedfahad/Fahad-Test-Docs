@@ -17,4 +17,7 @@ Account
   to ensure that the projects that you create remain yours and not someone else's.
   
 Project
-: A project is a canvas upon which you put Frames, and likely represents your entire app.
+: A project is a root folder in which you place your Files. The project represents your entire app.
+
+File
+: A file is a canvas upon which you put your frames, and is often used to represent a single task flow.
