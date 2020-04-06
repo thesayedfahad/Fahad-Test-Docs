@@ -6,7 +6,7 @@ nav_order: 4
 # Create A Frame
 {: .no_toc }
 
-In ths tutorial, we will create a Frame in Figma. Frame is like a slide. The UI is desiged on the frames. 
+In ths tutorial, we will create a Frame in Figma. A frame is like a slide in a presentation, and it's what the UI is designed on.
 {: .fs-4 .fw-300 }
 
 ## Pre-requisite
@@ -36,7 +36,7 @@ In ths tutorial, we will create a Frame in Figma. Frame is like a slide. The UI 
 
   ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/c.png?raw=true "Logo Title Text 4")
   
-6.you can also select a Frame size from the list on the left.
+6. You may also select a Frame size from the list on the left.
   ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/e.png?raw=true "Logo Title Text 5")
 
 
