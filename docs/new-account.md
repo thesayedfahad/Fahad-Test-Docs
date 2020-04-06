@@ -7,8 +7,7 @@ nav_order: 2
 # Create New Account
 {: .no_toc }
 
-In ths tutorial, we will create a new Account to access Figma. To use all the functionality and save your progess, it is neccessary to 
-set up an account on Figma.
+In ths tutorial, we will create a new Account to access Figma. To use all the features Figma has to offer and save your progess, it is neccessary to set up an account on Figma.
 {: .fs-4 .fw-300 }
 
 
@@ -56,7 +55,7 @@ set up an account on Figma.
   
    ![Form where you can enter up to three email addresses belongong to your collaborators, as well as a button to skip that step.](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/next%20(2).png?raw=true "Logo Title Text 5")
 
-You have succesfully set up an Account on Figma. You would be automatically redirected to an Untitiled Project.
+You have succesfully set up an Account on Figma. You would be automatically redirected to an Untitled Project.
 
 ![Picture of a blank Figma project.](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/2020-04-05%20(17).png?raw=true "Logo Title Text 6")
 {: .fs-4 .fw-300 }
