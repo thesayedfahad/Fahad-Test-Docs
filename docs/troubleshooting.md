@@ -4,7 +4,7 @@ title: Troubleshooting
 nav_order: 99
 ---
 
-| Left-aligned | Center-aligned | Right-aligned |
+| Issue | Possible Reason | Solution |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| Cannot open to Figma.com   | Scheduled maintenance     | Try opening after 5-10 minutes     |
 | git diff     | git diff       | git diff      |
