@@ -33,11 +33,9 @@ set up an account on Figma.
 
   b. Sign in with an Existing Google Account.
      ![Google's universal log-in interface, showing where to enter your email or phone number to log-in at the center of the screen.](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/IMAGE-3.png?raw=true "Logo Title Text 3")
+     {: .fs-4 .fw-300 }
+     ### Sign Up with A New Account
 
-
-
-    {: .fs-4 .fw-300 }
-    ### Sign Up with A New Account
   c. Enter an your **Email Address** and **Password** for your Acconut.
 
 4. Enter your **Name** and the **type of work you do** from the dropdown menu.
