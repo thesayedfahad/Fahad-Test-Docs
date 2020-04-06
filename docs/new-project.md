@@ -7,19 +7,19 @@ nav_order: 3
 # Create New Project
 {: .no_toc }
 
-In ths tutorial, we will create a New Project in Figma. Project is where you will save all your progress. 
+In this tutorial, we will create a New Project in Figma. Project is where you will save all your progress. 
 {: .fs-4 .fw-300 }
 
 ## Pre-requisite
 {: .no_toc }
 
-Before creating a new project, you need a Figma account. If you don't have a Figma Account **[Make An Account Here](https://thesayedfahad.github.io/Fahad-Test-Docs/docs/configuration/)**. If you have just set up a new Account, you would automatically be in your untitled project else you would have to **Make A New Project**.
+Before creating a new project, you need a Figma account. If you don't have a Figma Account **[Make An Account Here]({% link docs/new-account.md }%)**. If you have just set up a new Account, you would automatically be in your untitled project else you would have to **Make A New Project**.
 {: .fs-4 .fw-300 }
 
 
 ## How To Create A Project
 
-1. Open **[https://www.figma.com/](http://google.com)**
+1. Open **[https://www.figma.com/](https://www.figma.com/)**
 
 2.  **Log in** to your account.
   ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/login.png?raw=true "Logo Title Text 0")
