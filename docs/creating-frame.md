@@ -12,9 +12,9 @@ In ths tutorial, we will create a Frame in Figma. A frame is like a slide in a p
 ## Pre-requisite
 {: .no_toc }
 
-* Before creating a Frame, you need a Figma account. If you don't have a Figma Account **[Make An Account Here](https://thesayedfahad.github.io/Fahad-Test-Docs/docs/configuration/)**. 
+* Before creating a Frame, you need a Figma account. If you don't have a Figma Account **[Make An Account Here](https://thesayedfahad.github.io/Fahad-Test-Docs/docs/new-account/)**. 
 
-* You must be in a New Project. If you have just set up a new Account, you would automatically be in your untitled project else you would have to **[Create An New Project](https://thesayedfahad.github.io/Fahad-Test-Docs/docs/task2/)**. 
+* You must be in a New Project. If you have just set up a new Account, you would automatically be in your untitled project else you would have to **[Create An New Project](https://thesayedfahad.github.io/Fahad-Test-Docs/docs/new-project/)**. 
 
 {: .fs-4 .fw-300 }
 
