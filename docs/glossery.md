@@ -5,7 +5,8 @@ nav_order: 99
 ---
 
 Figma
-: The design prototyping platform for which this documentation is written.
+: The design prototyping platform for which this documentation is written. 
+  See [Introduction]({% link index.md %}) for more information.
 
 Frame
 : A Frame is a representation of the screen you wish to design your application for. 
