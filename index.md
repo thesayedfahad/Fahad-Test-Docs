@@ -12,4 +12,6 @@ Figma is a rapid design prototyping platform with live collaborative editing and
 
 # [](#header-2) Getting started
 
-[Go to Figma now!](https://www.figma.com/){: .btn }
+Signing up for Figma is easy! Follow our [account creation guide]({% link docs/configuration.md %}) and click the button below for Figma's website!
+
+[Go to Figma now!](https://www.figma.com/){: .btn .btn-blue }
