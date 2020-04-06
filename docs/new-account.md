@@ -23,19 +23,19 @@ set up an account on Figma.
 3. Sign up with **Existing Google Account** or create a **New Account**.
   ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/IMAGE-2%20(1).png?raw=true "Logo Title Text    2")
 
-{: .fs-4 .fw-300 }  
-### Sign Up With Google  
-a. Click on **Sign up with Google.** 
+  {: .fs-4 .fw-300 }  
+  ### Sign Up With Google  
+  a. Click on **Sign up with Google.** 
 
-b. Sign in with an Existing Google Account.
+  b. Sign in with an Existing Google Account.
 
-  ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/IMAGE-3.png?raw=true "Logo Title Text 3")
+    ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/IMAGE-3.png?raw=true "Logo Title Text 3")
 
 
 
-{: .fs-4 .fw-300 }
-### Sign Up with A New Account
-a. Enter an your **Email Address** and **Password** for your Acconut.
+  {: .fs-4 .fw-300 }
+  ### Sign Up with A New Account
+  c. Enter an your **Email Address** and **Password** for your Acconut.
 
 {: .fs-4 .fw-300 }
 
