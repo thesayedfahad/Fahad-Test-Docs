@@ -37,7 +37,7 @@ In ths tutorial, we will create a Frame in Figma. Frame is like a slide. The UI 
   ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/c.png?raw=true "Logo Title Text 4")
   
   you can also select a Frame size from the list on the left.
-    ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/e.png?raw=true "Logo Title Text 5")
+   ![alt text](https://github.com/thesayedfahad/Fahad-Test-Docs/blob/gh-pages/assets/images/e.png?raw=true "Logo Title Text 5")
 
 
 
